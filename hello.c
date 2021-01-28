@@ -7,5 +7,7 @@
 -{
 -printf  ( "hello world!" ) ;
 -printf  ( "hello git" ) ;
+printf ( "hello gitnub");
+
 -return 0;
 # add a return
